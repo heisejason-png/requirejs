@@ -77,3 +77,4 @@ Serve the directory with these 4 siblings from a web server. It can be a local w
 
 Open requirejs/tests/index.html in all the browsers, click the arrow button to run all
 the tests.
+Created by Jason Scott Heise
